@@ -1,0 +1,4 @@
+pandas
+duckdb
+nltk
+spacy
