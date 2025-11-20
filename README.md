@@ -21,3 +21,26 @@ This project is a simple AI-powered data analysis tool designed for quick insigh
 ## Goal
 
 The goal of this project is to provide a minimal, beginner-friendly AI agent that makes data exploration easier without needing complex setup or advanced machine-learning knowledge.
+
+
+### How to get Started?
+
+1. Clone the GitHub repository
+
+```bash
+git clone https://github.com/parshvak26/Basic-AI-Agent-for-data-analysis.git
+cd Basic-AI-Agent-for-data-analysis
+```
+2. Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+3. Get your OpenAI API Key
+
+- Sign up for an [Google gemini account] and obtain your API key, and add it in code below Import
+
+4. Run this command
+```CMD
+python DataAnalysisAgent.py --file YOUR_FILE_HERE.CSV
+```
