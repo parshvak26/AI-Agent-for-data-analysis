@@ -28,7 +28,7 @@ The goal of this project is to provide a minimal, beginner-friendly AI agent tha
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/parshvak26/Basic-AI-Agent-for-data-analysis.git
+git clone https://github.com/parshvak26/AI-Agent-for-data-analysis.git
 cd Basic-AI-Agent-for-data-analysis
 ```
 2. Install the required dependencies
