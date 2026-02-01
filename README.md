@@ -11,6 +11,7 @@ This project is a simple AI-powered data analysis tool designed for quick insigh
 - Allows you to ask your own custom questions  
 - Can generate **SQL queries** based on the contents of your file
 
+
 ## Example Questions You Can Ask
 
 - “What are the most important columns in this dataset?”  
